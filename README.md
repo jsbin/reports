@@ -1,6 +1,6 @@
 # Reports
 
-This repository is dedicated to reporting content that appears on http://jsbin.com through the [issue tracker](/jsbin/reports/issues).
+This repository is dedicated to reporting content that appears on http://jsbin.com through the [issue tracker](https://github.com/jsbin/reports/issues).
 
 Either to report a bin that hosts content that is against our [terms of use](http://jsbin.com/legals) or against a [content policy](http://jsbin.com/legals/content-policy).
 
